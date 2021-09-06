@@ -1,0 +1,44 @@
+{
+	"course":"Learn Json",
+	"disc":"ok",
+	"lectures" : [
+		{
+			"title":"Introduction",
+			"parts":[
+				{
+					"id":0,
+					"title":"1",
+					"html":"<h1>test</h1>",
+					"ans":[
+						"sdsd","ss","2wd"
+					],
+					"rightOne":1
+				},
+				{
+					"id":1,
+					"title":"1",
+					"html":"<h1>test</h1>"
+				}
+			]
+		},
+		{
+			"title":"Introduction",
+			"parts":[
+				{
+					"id":0,
+					"title":"1",
+					"html":"<h1>test</h1>",
+					"ans":[
+						"sdsd","ss","2wd"
+					],
+					"rightOne":1
+				},
+				{
+					"id":1,
+					"title":"1",
+					"html":"<h1>test</h1>"
+				}
+			]
+		}
+	]
+}
